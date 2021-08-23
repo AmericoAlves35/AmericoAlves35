@@ -46,7 +46,7 @@
   
   
   
-  ![Snake animation](https://github.com/AmericoAlves35/AmericoAlves35/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AmericoAlves35/blob/output/github-contribution-grid-snake.svg)
   
   
   
