@@ -2,7 +2,7 @@
 
 <hr>
 
-- ⚡ Estudo Bacharelado em Ciencia da Computação
+- ⚡ Estudando Bacharelado em Ciencia da Computação
 - ⚡ Aprendizagem de tecnologias 
 - ⚡ Estudando Bootcamp | Fullstack Developer
 - ⚡ Busca Constante por conhecimento
