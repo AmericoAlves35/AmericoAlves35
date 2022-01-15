@@ -38,6 +38,7 @@
   <img align="center" alt="Intelij" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">-
   <img align="center" alt="VSTUDIO" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">-
    <img align="center" alt="MYsQL" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">-
+   <img align="center" alt="MongoDB" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">-
      <img align="center" alt="GIT" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">-
      <img align="center" alt="VSCODE" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   
