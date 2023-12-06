@@ -3,6 +3,7 @@
 <hr>
 
 - ⚡ Estudando Bacharelado em Ciencia da Computação
+- ⚡ Estudando Analise de dados e Inteligencia Artificial
 - ⚡ Aprendizagem de tecnologias 
 - ⚡ Estudando Bootcamp | Fullstack Developer
 - ⚡ Busca Constante por conhecimento
