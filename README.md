@@ -2,8 +2,8 @@
 
 <hr>
 
-- ⚡ Estudando Bacharelado em Ciencia da Computação
-- ⚡ Estudando Analise de dados e Inteligencia Artificial
+- ⚡ Estudando Machine Learning Engineering | Analise de dados | Inteligencia Artificial 
+- ⚡ Sistemas de Informação | Ciencia da Computação
 - ⚡ Aprendizagem de tecnologias 
 - ⚡ Estudando Bootcamp | Fullstack Developer
 - ⚡ Busca Constante por conhecimento
