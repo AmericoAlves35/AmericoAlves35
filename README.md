@@ -5,7 +5,7 @@
 - ⚡ Estudando Machine Learning Engineering | Analise de dados | Inteligencia Artificial 
 - ⚡ Sistemas de Informação | Ciencia da Computação
 - ⚡ Aprendizagem de tecnologias 
-- ⚡ Estudando Bootcamp | Fullstack Developer
+- ⚡ Bootcamps | Fullstack Developer
 - ⚡ Busca Constante por conhecimento
 
 
